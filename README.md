@@ -1,3 +1,3 @@
 # CPProfiler
 
-Simple, single-header intrusive C++ profiler
+Simple single-header intrusive C++ profiler
